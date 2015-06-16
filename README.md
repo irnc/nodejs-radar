@@ -6,6 +6,7 @@ Things to watch for:
 
 * see Events section at https://nodejs.org/community/
   * http://jsconf.com
+  * http://oneshot.nodeconf.com/
 * June 26, http://nodeday.com/
   * check out first nodeday, http://www.youtube.com/playlist?list=PLDVWhE1r7sji1NpNKmjfJiJgvr1UAVNyY
 * September, http://nodeconfeu.com
