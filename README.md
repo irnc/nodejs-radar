@@ -8,6 +8,7 @@ Things to watch for:
 * June 26, http://nodeday.com/
   * check out first nodeday, http://www.youtube.com/playlist?list=PLDVWhE1r7sji1NpNKmjfJiJgvr1UAVNyY
 * September, http://nodeconfeu.com
+* October 10th, http://nodejsconf.it
 
 ## 2016
 
