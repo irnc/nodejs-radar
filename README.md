@@ -12,8 +12,8 @@ Things to watch for:
 
 ## 2016
 
-* June
-  * http://nodeconf.com
+* February, http://nodesummit.com
+* June, http://nodeconf.com
 
 ## Past events
 
