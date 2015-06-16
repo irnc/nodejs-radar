@@ -19,3 +19,4 @@ Things to watch for:
 ### 2014
 
 * http://nodefest.jp/2014/
+  * http://www.youtube.com/playlist?list=PL42hYWKFRfN689rx3pVReAkYjs2F05Kum
